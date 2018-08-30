@@ -1,0 +1,66 @@
+.photo
+{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.imageflottante
+{
+	float: left;
+}
+
+#motto
+{
+	color: #ff9933;
+}
+
+.nom
+{
+	text-weight: bold;
+}
+
+p
+{
+	font-size: medium;
+	font-family: Arial, Verdana, "Times New Roman";
+	text-align: left;
+	margin: 4px;
+}
+
+h1
+{
+	font-size: x-large;
+	font-family: Arial, Verdana, "Times New Roman";
+	font-weight: bold;
+	text-align: center;
+}
+
+h2
+{
+	font-size: x-large;
+	font-family: Arial, Verdana, "Times New Roman";
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+}
+
+h3
+{
+	font-size: large;
+	font-family: Arial, Verdana, "Times New Roman";
+	font-weight: bold;
+	text-align: center;
+	border: 3px solid green;
+	background-color: green;
+
+em
+{
+	font-weight: bold;
+}
+
+
+body
+{
+	background-color: #cce5ff;
+}
